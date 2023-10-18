@@ -91,6 +91,7 @@ class UserService {
         this.baseUri = uri
     }
 //comment
+//new comment
     static singUp(user){
         console.log("Registering user")
         console.log(user)
