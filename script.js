@@ -87,12 +87,6 @@ class Person {
         console.warn('changed the name')
     }
 }
-
-const p1 = new Person('Alina', 'Samoteev');
-
-console.log(p1.fullName);
-p1.fullName = "John Gibson"
-console.log(p1.fullName);
 */
 //Static
 
