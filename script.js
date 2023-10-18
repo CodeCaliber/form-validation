@@ -80,13 +80,7 @@ class Person {
         return `${this.firstName} ${this.lastName}`;
     }
 
-    set fullName(_value){
-        const parts = _value.split(' ')
-        this.firstName = parts[0]
-        this.lastName = parts[1]
-        console.warn('changed the name')
-    }
-}
+added a small little feature! Pretty cool!
 */
 //Static
 
