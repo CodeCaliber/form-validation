@@ -92,7 +92,7 @@ class UserService {
     }
 //comment
 //new comment
-//new.....
+//new......
     static singUp(user){
         console.log("Registering user")
         console.log(user)
