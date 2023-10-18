@@ -90,7 +90,7 @@ class UserService {
     constructor(uri){
         this.baseUri = uri
     }
-
+//comment
     static singUp(user){
         console.log("Registering user")
         console.log(user)
